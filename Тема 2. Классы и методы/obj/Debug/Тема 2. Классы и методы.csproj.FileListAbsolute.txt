@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\bin\Debug\Тема_2.Классы_и_методы.exe.config
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\bin\Debug\Тема_2.Классы_и_методы.exe
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\bin\Debug\Тема_2.Классы_и_методы.pdb
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\obj\Debug\Тема 2. Классы и методы.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\obj\Debug\Тема 2. Классы и методы.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\obj\Debug\Тема_2.Классы_и_методы.exe
+C:\Users\krist\source\repos\Тема 2. Классы и методы\Тема 2. Классы и методы\obj\Debug\Тема_2.Классы_и_методы.pdb
